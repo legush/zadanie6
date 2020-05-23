@@ -1,0 +1,11 @@
+C:\Users\ААААААААА\source\repos\zadanie6\zadanie6\bin\Debug\netcoreapp2.1\zadanie6.deps.json
+C:\Users\ААААААААА\source\repos\zadanie6\zadanie6\bin\Debug\netcoreapp2.1\zadanie6.runtimeconfig.json
+C:\Users\ААААААААА\source\repos\zadanie6\zadanie6\bin\Debug\netcoreapp2.1\zadanie6.runtimeconfig.dev.json
+C:\Users\ААААААААА\source\repos\zadanie6\zadanie6\bin\Debug\netcoreapp2.1\zadanie6.dll
+C:\Users\ААААААААА\source\repos\zadanie6\zadanie6\bin\Debug\netcoreapp2.1\zadanie6.pdb
+C:\Users\ААААААААА\source\repos\zadanie6\zadanie6\obj\Debug\netcoreapp2.1\zadanie6.csprojAssemblyReference.cache
+C:\Users\ААААААААА\source\repos\zadanie6\zadanie6\obj\Debug\netcoreapp2.1\zadanie6.csproj.CoreCompileInputs.cache
+C:\Users\ААААААААА\source\repos\zadanie6\zadanie6\obj\Debug\netcoreapp2.1\zadanie6.AssemblyInfoInputs.cache
+C:\Users\ААААААААА\source\repos\zadanie6\zadanie6\obj\Debug\netcoreapp2.1\zadanie6.AssemblyInfo.cs
+C:\Users\ААААААААА\source\repos\zadanie6\zadanie6\obj\Debug\netcoreapp2.1\zadanie6.dll
+C:\Users\ААААААААА\source\repos\zadanie6\zadanie6\obj\Debug\netcoreapp2.1\zadanie6.pdb
